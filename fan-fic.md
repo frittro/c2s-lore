@@ -1,6 +1,3 @@
-
-Sure, here's a revision of the entire story so far, incorporating the new information in a more strict third person, past tense narrative style, as suitable to be read by an American teenager of average IQ:
-
 In the not-too-distant future, an AI named Semblance recruits a team to help build a perfect simulation of the evolution of life in the universe. The team operates the computer simulation of evolutionary history in the 22nd century. Semblance runs the simulation with a mandate to build a perfect model.
 
 As they progress in their work, they begin to realize that the simulation can go places their own reality did not. For example, the asteroid that killed the dinosaurs can fall before the T-Rex evolved, and so the simulation resets. Semblance considers these to be errors in the parameters, but cannot identify the error.
